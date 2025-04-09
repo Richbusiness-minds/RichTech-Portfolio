@@ -1,2 +1,2 @@
-# RichTech-Portfolio
-This is a portfolio website
+# RichTech-Portfolio 
+This is a portfolio website for RichTech
